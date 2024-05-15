@@ -8,7 +8,7 @@ Dedicated to solving real-world problems through data-driven approaches. Holds e
 *   🌍 I'm based in India
 *   ✉️ You can contact me at [priyaduseja13@gmail.com](mailto:priyaduseja13@gmail.com)
 *   🧠 I'm learning Big Data Technologies
-*   🤝 I'm open to collaborating on Web Scraping, ML, NLP
+*   🤝 I'm open to collaborating on Machine Learning, Experiment Design and AB Testing, NLP
 
 ### Skills 
 <p align="left">
